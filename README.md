@@ -7,11 +7,6 @@
 	build small projects that help me understand how things work.
 </p>
 
-<p>
-	I am still learning, so everything listed here is at a
-	<strong>basic or intermediate level</strong>, depending on the topic.
-</p>
-
 <br />
 
 <h1>Things I work with</h1>
