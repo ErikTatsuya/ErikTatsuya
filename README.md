@@ -3,8 +3,8 @@
 <h1 style="text-align: center">About me</h1>
 
 <p>
-	I am still learning and use this GitHub mainly to study, experiment, and
-	build small projects that help me understand how things work.
+	My name is Erik Tatsuya. I am still learning and use this GitHub mainly to study, experiment, and
+	build small projects that help me understand how things work. I am studying for about an year.
 </p>
 
 <br />
