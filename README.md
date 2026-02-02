@@ -13,7 +13,7 @@
 <hr />
 
 <ul>
-	<li>Main programming languages: C/C++, Python, and JavaScript</li>
+	<li>Main programming languages: C/C++, C#, Python, and JavaScript</li>
 	<li>
 		Operating systems: basic knowledge of Windows and Linux distributions
 		(Fedora, Mint, and Ubuntu)
