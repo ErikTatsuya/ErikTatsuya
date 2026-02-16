@@ -29,6 +29,6 @@
 <h4>Other skills and interests</h4>
 
 <ul>
-	<li>Math: linear algebra and trigonometry</li>
+	<li>Math: I like math🥀</li>
 	<li>Languages: intermediate English and very basic Japanese</li>
 </ul>
