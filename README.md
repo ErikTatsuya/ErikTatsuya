@@ -1,34 +1,65 @@
-<img src="sin_cos.gif" />
-
-<h1 style="text-align: center">About me</h1>
-
-<p>
-	My name is Erik Tatsuya, I'm 13y old. I am still learning and use this GitHub mainly to study, experiment, and
-	build small projects that help me understand how things work. I am studying for about an year.
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E90FF&height=160&section=header&text=Erik%20Tatsuya&fontSize=38&fontColor=ffffff&animation=fadeIn"
+  />
 </p>
 
-<br />
+<p align="center">
+  <b>Backend Developer • Python / C / C++ / JavaScript</b><br/>
+  Linux Enthusiast • 13 years old • Intermediary English • Beginner Japanese
+</p>
 
-<h1>Things I work with</h1>
-<hr />
+---
 
-<ul>
-	<li>Main programming languages: C/C++, C#, Python, and JavaScript</li>
-	<li>
-		Operating systems: basic knowledge of Windows and Linux distributions
-		(Fedora, Mint, and Ubuntu)
-	</li>
-	<li>
-		Technologies: graphical programming, web development, and desktop
-		applications
-	</li>
-</ul>
+## 👤 About Me
 
-<hr />
+<p align="center">
+  I am a young software developer focused on <b>backend development</b>.  
+  Passionate about programming, solving problems, and learning new technologies.  
+  I like experimenting with Linux and exploring how systems work.
+</p>
 
-<h4>Other skills and interests</h4>
+---
 
-<ul>
-	<li>Math: I like math🥀</li>
-	<li>Languages: intermediate English and very basic Japanese</li>
-</ul>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 🌐 Languages
+
+<p align="center">
+  English: Intermediary (B2-ish) <br/>
+  Japanese: Beginner
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ErikTatsuya&theme=github-dark"
+  />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://discord.gg/SzKBruMt8h">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
+  </a>
+  <br/>
+  <a href="mailto:eriktatsuya@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
