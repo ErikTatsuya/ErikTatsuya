@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
   </a>
   <br/>
-  <a href="mailto:eriktatsuya@example.com">
+  <a href="mailto:erik.tatsuya@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
